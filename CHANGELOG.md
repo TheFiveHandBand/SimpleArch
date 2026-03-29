@@ -1,4 +1,4 @@
-Version 1.0.0
+Version Beta
 
 --Forked Retroarch
 --Built Retroarch
@@ -6,7 +6,7 @@ Version 1.0.0
 --Updated README.md
 --Added CHANGELOG.md
 
-Planned
+Planned for Version 1.0.0
 
 --Further Core support
 --Application customisation to make SimpleArch simple!
