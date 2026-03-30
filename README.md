@@ -1,4 +1,4 @@
-![SimpleArch Banner]([assets/SimpleArch-Banner.png](https://raw.githubusercontent.com/TheFiveHandBand/SimpleArch/master/assets/SimpleArch-Banner.png)
+![SimpleArch Banner](https://raw.githubusercontent.com/TheFiveHandBand/SimpleArch/master/assets/SimpleArch-Banner.png)
 
 ## SimpleArch is a simplified version of Retroarch for both new and existing users. 
 
