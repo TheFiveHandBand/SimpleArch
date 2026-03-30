@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>retroarch.ico</ApplicationIcon>
+	<AssemblyName>SimpleArch</AssemblyName>
+	<RootNamespace>SimpleArch</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="retroarch.ico" />
+  </ItemGroup>
+
+</Project>
